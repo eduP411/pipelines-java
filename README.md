@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/eduardomelgarejo/Runing%20CICD/_apis/build/status/eduP411.pipelines-java?branchName=master)](https://dev.azure.com/eduardomelgarejo/Runing%20CICD/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
